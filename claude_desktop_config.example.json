@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ecommerce": {
+      "url": "http://localhost:3000/mcp",
+      "description": "E-commerce store MCP server for product browsing, cart management, and checkout"
+    }
+  }
+}
